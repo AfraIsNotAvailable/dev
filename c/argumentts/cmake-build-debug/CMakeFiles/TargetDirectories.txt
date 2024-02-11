@@ -1,0 +1,3 @@
+/home/afra/dev/c/argumentts/cmake-build-debug/CMakeFiles/argumentts.dir
+/home/afra/dev/c/argumentts/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/afra/dev/c/argumentts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

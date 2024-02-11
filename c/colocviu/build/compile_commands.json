@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/afra/dev/c/colocviu/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/colocviu.dir/main.c.o -c /home/afra/dev/c/colocviu/main.c",
+  "file": "/home/afra/dev/c/colocviu/main.c",
+  "output": "CMakeFiles/colocviu.dir/main.c.o"
+}
+]

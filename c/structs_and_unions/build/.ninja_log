@@ -1,0 +1,22 @@
+# ninja log v5
+1	4	0	clean	a31eedcededa8236
+1	33	1705589638252718044	CMakeFiles/structs_and_unions.dir/main.c.o	4706323ed8dcb305
+33	60	1705589638276717973	structs_and_unions	edca15b7dc269fdf
+1	3	0	clean	a31eedcededa8236
+1	21	1705589680840590856	CMakeFiles/structs_and_unions.dir/main.c.o	4706323ed8dcb305
+21	38	1705589680856590808	structs_and_unions	edca15b7dc269fdf
+0	3	0	clean	a31eedcededa8236
+1	20	1705589748212385840	CMakeFiles/structs_and_unions.dir/main.c.o	4706323ed8dcb305
+20	38	1705589748232385779	structs_and_unions	edca15b7dc269fdf
+1	4	0	clean	a31eedcededa8236
+1	21	1705590170607023515	CMakeFiles/structs_and_unions.dir/main.c.o	4706323ed8dcb305
+21	39	1705590170623023462	structs_and_unions	edca15b7dc269fdf
+0	4	0	clean	a31eedcededa8236
+0	21	1705590186126971645	CMakeFiles/structs_and_unions.dir/main.c.o	4706323ed8dcb305
+21	38	1705590186142971591	structs_and_unions	edca15b7dc269fdf
+1	5	0	clean	a31eedcededa8236
+1	22	1705590194618943222	CMakeFiles/structs_and_unions.dir/main.c.o	4706323ed8dcb305
+22	39	1705590194638943155	structs_and_unions	edca15b7dc269fdf
+1	4	0	clean	a31eedcededa8236
+0	25	1705590204030911686	CMakeFiles/structs_and_unions.dir/main.c.o	4706323ed8dcb305
+25	44	1705590204050911619	structs_and_unions	edca15b7dc269fdf

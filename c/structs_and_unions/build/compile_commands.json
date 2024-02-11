@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/afra/dev/c/structs_and_unions/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/structs_and_unions.dir/main.c.o -c /home/afra/dev/c/structs_and_unions/main.c",
+  "file": "/home/afra/dev/c/structs_and_unions/main.c",
+  "output": "CMakeFiles/structs_and_unions.dir/main.c.o"
+}
+]

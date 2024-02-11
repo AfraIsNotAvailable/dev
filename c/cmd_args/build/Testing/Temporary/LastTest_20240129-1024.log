@@ -1,0 +1,19 @@
+Start testing: Jan 29 13:13 EET
+----------------------------------------------------------
+1/1 Testing: cmd_args_test
+1/1 Test: cmd_args_test
+Command: "/home/afra/dev/c/cmd_args/build/cmd_args" "12" "24" "+"
+Directory: /home/afra/dev/c/cmd_args/build
+"cmd_args_test" start time: Jan 29 13:13 EET
+Output:
+----------------------------------------------------------
+4 12
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"cmd_args_test" end time: Jan 29 13:13 EET
+"cmd_args_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 29 13:13 EET

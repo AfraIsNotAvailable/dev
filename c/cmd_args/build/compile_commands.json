@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/afra/dev/c/cmd_args/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/cmd_args.dir/main.c.o -c /home/afra/dev/c/cmd_args/main.c",
+  "file": "/home/afra/dev/c/cmd_args/main.c",
+  "output": "CMakeFiles/cmd_args.dir/main.c.o"
+}
+]

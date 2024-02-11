@@ -1,0 +1,13 @@
+# ninja log v5
+1	4	0	clean	a31eedcededa8236
+1	39	1705591943298529054	CMakeFiles/colocviu.dir/main.c.o	1d04cecf6ff4ccf9
+40	61	1705591943318528902	colocviu	9a748d29da11026b
+1	3	0	clean	a31eedcededa8236
+1	26	1705591948638488377	CMakeFiles/colocviu.dir/main.c.o	1d04cecf6ff4ccf9
+26	43	1705591948658488225	colocviu	9a748d29da11026b
+1	4	0	clean	a31eedcededa8236
+1	26	1705591965606359864	CMakeFiles/colocviu.dir/main.c.o	1d04cecf6ff4ccf9
+26	44	1705591965622359743	colocviu	9a748d29da11026b
+1	4	0	clean	a31eedcededa8236
+1	27	1705592008170042244	CMakeFiles/colocviu.dir/main.c.o	1d04cecf6ff4ccf9
+27	46	1705592008190042097	colocviu	9a748d29da11026b

@@ -1,0 +1,6 @@
+5 
+CJ 68 DRG,2005,albastru-gri,Kawasaki,30000.67 
+BU 99 XYZ,1992,auriu,BMW,1200.01
+BU 10 AAA,2020,rosu,Tesla,3012.34
+IS 01 BST,1999,albastru-verde,WMN,34340.87
+CJ 99 MAI,1996,verde,DACIA,600335

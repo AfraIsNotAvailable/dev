@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/afra/dev/c/tema3/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/tema3.dir/main.c.o -c /home/afra/dev/c/tema3/main.c",
+  "file": "/home/afra/dev/c/tema3/main.c"
+}
+]

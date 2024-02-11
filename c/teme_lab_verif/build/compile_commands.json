@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/afra/dev/c/teme_lab_verif/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/teme_lab_verif.dir/main.c.o -c /home/afra/dev/c/teme_lab_verif/main.c",
+  "file": "/home/afra/dev/c/teme_lab_verif/main.c",
+  "output": "CMakeFiles/teme_lab_verif.dir/main.c.o"
+}
+]

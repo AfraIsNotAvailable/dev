@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/afra/dev/c/lab_practice/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/lab_practice.dir/main.c.o -c /home/afra/dev/c/lab_practice/main.c",
+  "file": "/home/afra/dev/c/lab_practice/main.c",
+  "output": "CMakeFiles/lab_practice.dir/main.c.o"
+}
+]
